@@ -1316,13 +1316,13 @@ section.testimonials .section-heading {
 .testimonials .owl-dots .owl-dot {
   width: 10px;
   height: 10px;
-  background-color: #ffa88c;
+  background-color: #A8D4EF;
   border-radius: 50%;
   margin: 0px 4px;
 }
 
 .testimonials .owl-dots .active {
-  background-color: #ff511a;
+  background-color: #3FBCED;
 }
 
 .testimonials .plink {
@@ -1521,7 +1521,7 @@ section.what-we-do {
   position: absolute;
   font-style: normal;
   font-size: 44px;
-  color: #43ba7f;
+  color: #A8D4EF;
   font-weight: 600;
   right: 15px;
   top: 5px;
@@ -1840,7 +1840,7 @@ section.map .info-item:hover {
 
 section.map .info-item i {
   font-size: 36px;
-  color: #43ba7f;
+  color: #A8D4EF;
   margin-bottom: 25px;
 }
 
@@ -1854,7 +1854,7 @@ section.map .info-item h4 {
 section.map .info-item a {
   font-size: 15px;
   font-weight: 600;
-  color: #43ba7f;
+  color: #3FBCED;
   transition: all 0.3s;
 }
 
@@ -1897,7 +1897,7 @@ section.map .info-item a:hover {
 #contact button.orange-button {
   font-size: 14px;
   color: #fff;
-  background-color: #ff511a;
+  background-color: #3FBCED;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -1909,7 +1909,7 @@ section.map .info-item a:hover {
 }
 
 #contact button.orange-button:hover {
-  background-color: #43ba7f;
+  background-color: #A8D4EF;
 }
 
 
